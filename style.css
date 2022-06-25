@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.main-banner{
+    font-family: Arial, Helvetica, sans-serifs;
+    width: auto;    
+    height: 400px;
+    background: #1F2937;
+}
+.navbar{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-side{
+   float: right;
+    
+}
+.cta-link{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    margin: 10px;
+    font-size: 24px;
+}
+#home{
+    float: left;
+    font-size: 24px;
+}
